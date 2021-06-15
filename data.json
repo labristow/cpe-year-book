@@ -1,0 +1,55 @@
+{
+    "hostels": [
+        {
+            "name": "Amoke Hostel",
+            "location": "Stella Maris Area",
+            "price": "130,000",
+            "imagesDir": "amoke"
+        },{
+            "name": "Lambo II Hostel",
+            "location": "Safari",
+            "price": "155,000",
+            "imagesDir": "lambo"
+        },{
+            "name": "God's Own Villa",
+            "location": "Behind Immigration office Oyun",
+            "price": "95,000",
+            "imagesDir": "gods-own"
+        },{
+            "name": "Benik Hostel",
+            "location": "Tiper garrage",
+            "price": "170,000",
+            "imagesDir": "benik"
+        },{
+            "name": "Amoke Hostel",
+            "location": "Stella Maris Area",
+            "price": "130,000",
+            "imagesDir": "amoke"
+        },{
+            "name": "Amoke Hostel",
+            "location": "Stella Maris Area",
+            "price": "130,000",
+            "imagesDir": "amoke"
+        },{
+            "name": "Amoke Hostel",
+            "location": "Stella Maris Area",
+            "price": "130,000",
+            "imagesDir": "amoke"
+        },{
+            "name": "Amoke Hostel",
+            "location": "Stella Maris Area",
+            "price": "130,000",
+            "imagesDir": "amoke"
+        },{
+            "name": "Amoke Hostel",
+            "location": "Stella Maris Area",
+            "price": "130,000",
+            "imagesDir": "amoke"
+        },{
+            "name": "Amoke Hostel",
+            "location": "Stella Maris Area",
+            "price": "130,000",
+            "imagesDir": "amoke"
+        }
+    ]
+}

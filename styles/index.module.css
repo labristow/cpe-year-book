@@ -1,0 +1,119 @@
+@font-face{
+    font-family: "Airbnb Cereal App";
+    src: url("../public/fonts/AirbnbCerealMedium.ttf");
+}
+
+@font-face{
+    font-family: "Airbnb Cereal App";
+    src: url("../public/fonts/AirbnbCerealMedium.ttf");
+    font-weight: 200;
+}
+
+.Navbar{
+    height: 67.8px;
+}
+.menubar_1{
+    height: 2.5px;
+}
+.menubar_2{
+    height: 2.5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidebar{
+    visibility: hidden;
+}
+.show_sidebar{
+    width: 100% !important;
+    visibility: visible;
+    transition: width 350ms ease;
+}
+.sidebarNav{
+    color: transparent;
+}
+.show_sidebar_nav{
+    margin-top: -4px;
+    visibility: visible;
+    color: #ffffff;
+    transition: all 350ms ease;
+}
+.contact_fab{
+    
+}
+.contact_us{
+    background-image: url("../public/images/global.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.footer{
+    
+}
+
+
+/* *************** */
+
+.container {
+    height: calc(100vh - 270px);
+    display: flex;
+    flex-wrap: nowrap;
+    position: relative;
+    z-index: 5;
+  }
+.container > * {
+    font-size: 1rem;
+  }
+  
+#intro {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    width: 50%;
+    height: 100%;
+    background: #fff;
+  }
+.header{
+    width: 100%;
+    height: 270px;
+}
+.headerInner{
+    position: fixed;
+}
+.relative{
+    position: relative !important;
+}
+.section {
+    display: flex;
+}
+.section div{
+    border: 1px solid lightgray;
+}
+.brandname{font-family: "Recoleta Regular DEMO";}
+.title{
+    font-family: "Recoleta Regular DEMO";
+    text-shadow: 1px 1px 0px #000000;
+}
+.subtitle{
+    font-weight: 100;
+    font-size: 14.5px;
+    font-family: 'Roboto';
+}
+.overlay{
+    width: 100%;
+    height: 100vh;
+    background-color: #0000003d;
+    position: fixed;
+    z-index: 100;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.overlayBox{
+    overflow-y: scroll;
+    background-color: #ffffff;
+}
+.show{
+    display: flex !important;
+}
